@@ -1,0 +1,61 @@
+#menu{
+    color: aliceblue !important;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.navbar-brand{
+    padding-left: 2%;
+    font-weight: bold;
+    color: aliceblue !important;
+}
+
+.nav-link{
+    color: aliceblue !important;
+}
+
+.img{
+    width: 50px;
+    height: 50px;
+}
+
+.carousel-control-prev-icon{
+    background-color: red !important;
+}
+
+.carousel-control-next-icon{
+    background-color: red !important;
+}
+
+.carousel-indicators{
+    background-color: red !important;
+}
+
+.carousel-indicators .active {
+    background-color: white!important;
+}
+
+.cards{
+    display: flexbox;
+}
+
+
+iframe{
+   
+    border-radius: 8.5px;
+}
+
+.custom-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 10px 0 10px;
+    color: aliceblue;
+    height: 150px;
+    background-color: black;
+}
+
+
