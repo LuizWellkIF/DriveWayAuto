@@ -58,4 +58,15 @@ iframe{
     background-color: black;
 }
 
+#paginainicial{
+    background-color: rgb(240, 10, 10);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
 
+#imgdesc {
+    border-radius: 10px;   
+    padding-left: 10px;
+    box-shadow: 10px 10px 5px #888888;
+}
